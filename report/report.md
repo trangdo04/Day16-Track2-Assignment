@@ -1,4 +1,4 @@
-# Báo cáo ngắn
+# Báo cáo
 
 Em sử dụng phương án CPU fallback với instance **r5.2xlarge** do tài khoản AWS mới chưa có quota GPU nên không thể triển khai **g4dn.xlarge**.  
 Kết quả benchmark cho thấy thời gian load data là **1.7879 giây**, thời gian training là **0.7979 giây**, và **best iteration = 18**.  
